@@ -1,4 +1,4 @@
-//https://x.com/NousResearch/status/1829143753036366325//
+//https://x.com/NousResearch/status/1829143753036366325
 
 # Hermes-Function-Calling
 
